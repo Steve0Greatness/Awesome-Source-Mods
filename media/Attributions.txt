@@ -1,0 +1,4 @@
+HalfLife.png : reddit.com/comments/mp16sz
+Source.png : iconduck.com/icons/81193 modified to use the colors of allvectorlogo.com/source-engine-logo
+XASH3D.png : github.com/FWGS/xash3d-fwgs
+SvenCoOp.png : en.wikipedia.org/wiki/File:Sven_Co-op_logo.png
